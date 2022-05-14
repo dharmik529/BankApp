@@ -1,0 +1,6 @@
+Employee 1: Love Patel, 64052943, lovepatel534@gmail.com, 215-234-4635
+Employee 2: Jahidul Robin, 53578473, madarauchiha69@gmail.com, 215-969-4200
+Employee 3: Dharmik Patel, 07957314, dharpat@outlook.com, 267-324-2254
+Employee 4: Dev Patel, 13753574, dev64@bit.com, 267-836-3534
+Employee 7: Steve Matthews, 69420694, Matthewstheman@steve.com, 267-425-4363
+Employee 8: Shiv Patel, 02947294, shivyshiv@yahoo.com, 215-747-3575
