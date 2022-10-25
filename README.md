@@ -1,2 +1,2 @@
 # EmployeeManagement
-Freshman Project for c++. A simple employee management.
+Freshman Project for C++. A simple employee management.
